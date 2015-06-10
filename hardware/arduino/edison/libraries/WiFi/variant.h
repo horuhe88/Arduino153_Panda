@@ -9,7 +9,7 @@
 #include <unistd.h>
 
 #include "AnalogIO.h"
-#include <wiring_digital.h>
+#include "wiring_digital.h"
 #include "pins_arduino.h"
 
 #ifdef __cplusplus
